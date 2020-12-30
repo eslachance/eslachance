@@ -1,6 +1,6 @@
 ### Evie's Github
 
-<div align="center">
+<div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=eslachance" alt="eslachance github profile views" />
     <a href="https://discord.gg/N7ZKH3P"><img src="https://discordapp.com/api/guilds/298508738623438848/embed.png" alt="Discord server" /></a>
