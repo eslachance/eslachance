@@ -34,6 +34,7 @@ Wanna hire me? [Connect on LinkedIn] now!
 
 [Enmap]: https://github.com/eslachance/enmap
 [Josh]: https://github.com/eslachance/josh
+[Etiket]: https://github.com/eslachance/etiket2
 [Snowflake]: https://github.com/eslachance/snowflake
 [Komada]: https://github.com/UnseenFaith/komada
 [Guidebot]: https://github.com/AnIdiotsGuide/guidebot
