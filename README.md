@@ -1,4 +1,4 @@
-### Evie's Github
+### Alterion's Github
 
 <div>
   <p>
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-Hello my darlings and *welcome* to Evie.Code's Github Profile! You're here because you're curious about who I am and what I do - or maybe you're a potential employer and you're sleuthing through my stuff and figuring out if I can write good code? Either way, hello and thanks for visiting.
+Hello my darlings and *welcome* to Alterion.Dev's Github Profile! You're here because you're curious about who I am and what I do - or maybe you're a potential employer and you're sleuthing through my stuff and figuring out if I can write good code? Either way, hello and thanks for visiting.
 
 So, what is there to see here? Well, there's my super cool projects like [Enmap] and [Josh] that I'm currently working on. Enmap is feature-complete while Josh is more of a work in progress, a different implementation with features I can't do with Enmap. Also take a look at [Snowflake] which is a blogging platform made with [React], [Zustand], [react-router-dom] and [Snowpack].
 
